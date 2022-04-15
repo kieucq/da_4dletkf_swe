@@ -1,0 +1,6 @@
+ truth.exe: jin    =            0
+ truth.exe: jout   =           12
+ truth.exe: nt     =            2
+ truth.exe: jstop  =           73
+ truth.exe: jint   =           12
+ truth.exe: out_flag =            3

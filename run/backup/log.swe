@@ -1,0 +1,6 @@
+ model.exe: jin    =            0
+ model.exe: jout   =           12
+ model.exe: nt     =            2
+ model.exe: jstop  =           73
+ model.exe: jint   =           12
+ model.exe: out_flag =            3

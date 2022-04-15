@@ -1,0 +1,11 @@
+ obs.exe: nt             =            7
+ obs.exe: out_flag       =           18
+ obs.exe: restart        =    3.000000    
+ obs.exe: tfcst          =    73.00000    
+ obs.exe: obs_error_u is:     1.000000    
+ obs.exe: obs_error_v is:     1.000000    
+ obs.exe: obs_error_z is:     3.000000    
+ obs.exe: number of ensemble is:            30
+ obs.exe: number of obs is:          1938
+ obs.exe: obs_flag:             0
+ obs.exe: program ends perfectly
